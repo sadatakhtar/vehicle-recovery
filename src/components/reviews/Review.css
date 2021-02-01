@@ -1,0 +1,44 @@
+.review_container{
+    background-color: lightgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 2rem;
+}
+.review_customer1  { 
+    width: 30%;
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.review_customer3  {
+    width: 30%;
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.review_customer2 {
+   
+    width: 30%;
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.review_customer1 > img, .review_customer2 > img, .review_customer3 > img {
+    border-radius: 200px;
+    margin-bottom: 1rem;
+}
+.review_customer1 > p, .review_customer2 > p, .review_customer3 > p  {
+    width: 60%;
+}
