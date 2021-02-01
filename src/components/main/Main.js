@@ -16,7 +16,7 @@ function Main() {
             </div>
             <div className="main_landline_container">
                 <h1>CALL</h1>
-                <img src={phone} width="50px" />
+                <img src={phone} width="50px" alt="phone" />
                 <h1>0121 123 1234</h1>
                
             </div>

@@ -1,5 +1,4 @@
 import React from 'react'
-import hero from '../../assets/hero.jpg';
 import phone from '../../assets/phone.png';
 import tick from '../../assets/tick.png';
 import './Hero.css';
