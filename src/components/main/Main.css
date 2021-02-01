@@ -35,3 +35,15 @@
 .main_landline_container > img {
     box-shadow:  0.5px 1px black;
 }
+
+@media only screen and (max-width: 1024px) {
+    .main_points > h2{
+       font-size: 1.2rem;
+    }
+  }
+
+  @media only screen and (max-width: 768px) {
+    .main_points > h2{
+       font-size: 1rem;
+    }
+  }

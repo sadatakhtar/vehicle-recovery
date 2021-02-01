@@ -40,3 +40,15 @@
 .header_contact_number > h4{
     font-weight: 300;
 }
+
+@media only screen and (max-width: 768px) {
+    .header_title > h1{
+      font-size: 2rem;
+    }
+    .header_logo {
+        margin-right: 1rem; 
+    }
+    .hero_textbox_title{
+        font-size: 1rem;
+    }
+  }
